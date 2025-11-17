@@ -1,8 +1,8 @@
 # AI Portfolio Showcase
 
-![AI Robot](https://raw.githubusercontent.com/cursor12/ai-experiments/refs/heads/main/robot.svg)
-
 A collection of practical AI/ML projects demonstrating my skills in deep learning, RNNs, and custom loss functions using Keras and PyTorch.
+
+![AI Robot](https://raw.githubusercontent.com/cursor12/ai-experiments/refs/heads/main/robot.svg)
 
 ## About
 
